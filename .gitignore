@@ -1,0 +1,6 @@
+target
+project/target
+.ensime_cache
+.ensime
+ensime-langserver.log
+pc.stdout.log
